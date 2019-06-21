@@ -32,3 +32,6 @@ Exchangeability martingales
 
 Plug-in Martingales
 =>Betting Function은 Kernel density estimation을 사용한다
+
+kernel density estimation
+=>비모수적(non-parametric)인 데이터를 근사화하여 pdf를 추정하는 기법
