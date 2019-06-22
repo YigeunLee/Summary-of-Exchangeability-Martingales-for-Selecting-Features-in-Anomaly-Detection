@@ -24,7 +24,7 @@ Exchangeability Martingales 을 사용한 Feature 선택
   3.만약 특정 Martingale value가 임계값을 넘어가면 그 값을 기각한다
 
 Conformal Predictors
-=>이것은 감싸진 스코어링 함수라고 할 수 있다.
+=>이것은 감싸진 스코어링 함수라고 할 수 있다. 계산은 트레이닝 된 데이터집합 v1...vn-1과 새로운 데이터집합 vn을 이용하여 스코어 값을 계산한다.
 Exchangeability martingales
 
 =>MartingGales 는 현재 값과 다음 값의 기대값이 같다는 내용이다 이를 위해 다음과 같은 수식을 쓴다
