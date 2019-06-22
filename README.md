@@ -29,9 +29,9 @@ Exchangeability martingales
 
 =>MartingGales 는 현재 값과 다음 값의 기대값이 같다는 내용이다 이를 위해 다음과 같은 수식을 쓴다
   
-
 Plug-in Martingales
-=>Betting Function은 Kernel density estimation을 사용한다
+=>Betting Function은 Kernel density estimation을 사용한다. 
 
 kernel density estimation
 =>보통은 데이터가 어떤 분포를 갖는지 모르기 때문에 근사화하여 pdf를 추정하는 기법,비모수적인 방법이다.
+  본 논문에서 bandwidth(파라메터 h)를 정할 때 Silverman's rule 을 사용한다. 커널함수는 gaussian을 사용
