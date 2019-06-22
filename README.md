@@ -34,4 +34,4 @@ Plug-in Martingales
 =>Betting Function은 Kernel density estimation을 사용한다
 
 kernel density estimation
-=>비모수적(non-parametric)인 데이터를 근사화하여 pdf를 추정하는 기법
+=>보통은 데이터가 어떤 분포를 갖는지 모르기 때문에 근사화하여 pdf를 추정하는 기법,비모수적인 방법이다.
