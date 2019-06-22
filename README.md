@@ -20,7 +20,9 @@ Exchangeability Martingales 을 사용한 Feature 선택
   특징 시퀀스를 비교하기위해 다음을 할 수 있다
 
   1.p-value를 계산한다 특징 집합 (vt)를 Comformal Predictor(논문상에서는 K-NN을 사용)
+  
   2.Betting Strategy를 사용하여 Martingale value를 계산한다 각 피쳐의 p-value를 위해
+  
   3.만약 특정 Martingale value가 임계값을 넘어가면 그 값을 기각한다
 
 Conformal Predictors
